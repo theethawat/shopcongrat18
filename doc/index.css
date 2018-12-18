@@ -1,0 +1,11 @@
+.kanit{
+    font-family: 'kanit',sans-serif;
+}
+.acenter{
+    text-align: center;
+}
+.piccenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
